@@ -83,7 +83,6 @@ Limited validation of input data.
 License
 This project is open source and free to use under the MIT License.
 
-This README is now specifically for your backend implementation. You can customize further if needed.
 
 
 
